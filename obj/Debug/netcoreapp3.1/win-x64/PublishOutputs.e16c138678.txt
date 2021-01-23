@@ -1,0 +1,2 @@
+C:\Users\hunte\source\repos\Simon\bin\Debug\netcoreapp3.1\win-x64\publish\Simon.pdb
+C:\Users\hunte\source\repos\Simon\bin\Debug\netcoreapp3.1\win-x64\publish\Simon.exe

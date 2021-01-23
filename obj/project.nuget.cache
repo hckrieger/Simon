@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2l/oVTWwSuEipLIKAkFPHabAxh2STyCg96gJIUsMSdM3C1xRLVYPRtYsq3LKILLcu91Hc6IXEkw+JpJ0zxLvYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hunte\\source\\repos\\Simon\\Simon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hunte\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\ryan.monogame.extended\\1.0.4\\ryan.monogame.extended.1.0.4.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\ryan.monogame.extended.input\\1.0.4\\ryan.monogame.extended.input.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/hunte/source/repos/Simon/Content/Message.spritefont","C:/Users/hunte/source/repos/Simon/Content/bin/DesktopGL/Message.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,17.482552
+"C:/Users/hunte/source/repos/Simon/Content/Title.spritefont","C:/Users/hunte/source/repos/Simon/Content/bin/DesktopGL/Title.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,2.9467528
+"C:/Users/hunte/source/repos/Simon/Content/tones/tone0.wav","C:/Users/hunte/source/repos/Simon/Content/bin/DesktopGL/tones/tone0.xnb","SoundEffectProcessor","SoundEffectContent",99762,99721,3.3130777
+"C:/Users/hunte/source/repos/Simon/Content/tones/tone1.wav","C:/Users/hunte/source/repos/Simon/Content/bin/DesktopGL/tones/tone1.xnb","SoundEffectProcessor","SoundEffectContent",99762,99721,0.4551072
+"C:/Users/hunte/source/repos/Simon/Content/tones/tone2.wav","C:/Users/hunte/source/repos/Simon/Content/bin/DesktopGL/tones/tone2.xnb","SoundEffectProcessor","SoundEffectContent",99762,99721,0.3778646
+"C:/Users/hunte/source/repos/Simon/Content/tones/tone3.wav","C:/Users/hunte/source/repos/Simon/Content/bin/DesktopGL/tones/tone3.xnb","SoundEffectProcessor","SoundEffectContent",99762,99721,0.4129037
